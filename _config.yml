@@ -1,4 +1,17 @@
 title: "Mariona & Gonzalo's Wedding"
 description: "Celebrate with us on our special day!"
-theme: jekyll-theme-cayman  # Or another GitHub Pages theme
-include: ["styles.css"]
+theme: jekyll-theme-minimal # Use a clean, classic theme
+header_image: img/marionaygonzalo.jpg # Add a beautiful header image
+accent_color: "#b993a3" # Soft blush or lavender for elegance (if supported by the theme)
+
+google_fonts:
+  - family: "Playfair Display"
+  - family: "Merriweather"
+
+social_links:
+  - name: Instagram
+    url: https://instagram.com/marionaygonzalo
+  - name: Wedding Registry
+    url: https://example.com/wedding-registry
+
+# Optional: other settings that suit the chosen theme
