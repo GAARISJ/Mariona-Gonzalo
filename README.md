@@ -8,7 +8,7 @@
 
 Welcome to my personal website created with GitHub Pages! This site is built using Markdown and is hosted directly on GitHub. You can visit the live website at:
 
-- **[my-website.github.io](https://your-username.github.io/my-website)**
+- **[Mariona-Gonzalo/.github.io](https://your-username.github.io/Mariona-Gonzalo/)**
 
 ## About This Site
 
@@ -16,7 +16,7 @@ This site is a simple, clean website template for showcasing projects, sharing y
 
 ## How to Use
 
-- **Clone the repository**: `git clone https://github.com/your-username/my-website.git`
+- **Clone the repository**: `git clone https://github.com/your-username/Mariona-Gonzalo/e.git`
 - **Edit files**: Modify the Markdown files to customize content.
 - **Push changes**: Commit and push changes to update the website.
 
