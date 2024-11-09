@@ -1,4 +1,8 @@
-title: "Mariona & Gonzalo's Wedding"
-description: "Join us to celebrate Mariona & Gonzalo's love!"
-theme: jekyll-theme-cayman  # Optional: Choose any GitHub Pages-compatible theme
-show_downloads: false
+# _config.yml
+theme: jekyll-theme-cayman  # Optional: You can still use a theme for basic structure
+
+# Custom Stylesheet
+markdown: kramdown
+sass:
+  style: compressed
+include: ['styles.css']

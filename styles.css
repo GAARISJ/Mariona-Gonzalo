@@ -1,0 +1,82 @@
+/* Main styling for a wedding-themed GitHub Pages website */
+
+/* Background and Text */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #faf8f6;
+    color: #3d3d3d;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+}
+
+/* Headings */
+h1, h2, h3 {
+    font-family: 'Garamond', serif;
+    color: #8a4b7d;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    font-size: 2em;
+    margin-top: 1em;
+}
+
+/* Links */
+a {
+    color: #b6729e;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8a4b7d;
+    text-decoration: underline;
+}
+
+/* Buttons */
+button, .btn, .button {
+    background-color: #b6729e;
+    color: #fff;
+    padding: 0.6em 1.2em;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: 'Garamond', serif;
+}
+
+button:hover, .btn:hover, .button:hover {
+    background-color: #8a4b7d;
+}
+
+/* "View on GitHub" button - hide or style */
+.github-button {
+    display: none; /* Uncomment to hide the button completely */
+}
+
+/* Custom Styling for Images */
+img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Layout */
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2em 0;
+    text-align: center;
+}
+
+/* Footer */
+footer {
+    margin-top: 2em;
+    font-size: 0.8em;
+    color: #8a4b7d;
+    text-align: center;
+}
