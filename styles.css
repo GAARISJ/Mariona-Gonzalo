@@ -1,75 +1,83 @@
-/* Main Styling for Mariona & Gonzalo's Wedding Website */
-
-/* Background and Text Colors */
-body {
-    background-color: #fdf8f6; /* Ivory white background */
-    color: #5d5d5d; /* Soft, elegant gray text */
-    font-family: 'Georgia', serif;
-    line-height: 1.8;
+/* Reset and Base Styles */
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+/* Background and Text */
+body {
+    background: linear-gradient(to bottom, #faf3f0, #ffffff);
+    font-family: 'Georgia', serif;
+    color: #5d5d5d;
+    line-height: 1.8;
+    padding: 0;
+    margin: 0;
 }
 
 /* Headings */
 h1, h2, h3 {
     font-family: 'Garamond', serif;
-    color: #a7727d; /* Blush pink for headings */
+    color: #8a4b7d; /* Classic blush pink */
     text-align: center;
+    margin: 0.5em 0;
 }
 
 h1 {
-    font-size: 2.8em;
-    margin-bottom: 0.2em;
+    font-size: 3em !important; /* Larger, classic size */
 }
 
 h2 {
-    font-size: 2.2em;
+    font-size: 2.5em !important;
     margin-top: 1em;
 }
 
 /* Links */
 a {
-    color: #b993a3; /* Light lavender color for links */
+    color: #b6729e; /* Light lavender for links */
     text-decoration: none;
 }
 
 a:hover {
-    color: #7d4a61; /* Darker lavender on hover */
+    color: #8a4b7d;
     text-decoration: underline;
 }
 
-/* Buttons */
+/* Button Styling */
 button, .btn, .button {
-    background-color: #b993a3;
-    color: #fff;
-    padding: 0.6em 1.5em;
-    border-radius: 5px;
-    text-decoration: none;
-    font-family: 'Garamond', serif;
+    background-color: #b6729e !important;
+    color: #fff !important;
+    padding: 0.7em 1.5em !important;
+    border-radius: 8px !important;
+    font-family: 'Garamond', serif !important;
+    font-size: 1em !important;
+    display: inline-block;
     margin-top: 1em;
+    border: none;
 }
 
 button:hover, .btn:hover, .button:hover {
-    background-color: #7d4a61; /* Darker blush pink on hover */
+    background-color: #8a4b7d !important;
 }
 
-/* GitHub Button (hide or style) */
+/* Hide or restyle the "View on GitHub" button */
 .github-button {
-    display: none; /* Hides the button for a clean look */
+    display: none !important; /* Uncomment to hide the button completely */
 }
 
 /* Images */
 img {
     max-width: 100%;
-    border-radius: 10px;
+    border-radius: 12px;
     box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.1);
-    margin-bottom: 20px;
+    margin: 20px auto;
+    display: block;
 }
 
 /* Layout */
 .container {
-    width: 80%;
-    max-width: 800px;
+    width: 85%;
+    max-width: 750px;
     margin: 0 auto;
     padding: 2em 0;
     text-align: center;
@@ -79,7 +87,7 @@ img {
 footer {
     margin-top: 2em;
     font-size: 0.9em;
-    color: #a7727d;
+    color: #8a4b7d;
     text-align: center;
     padding: 1em 0;
     border-top: 1px solid #e3dede;
