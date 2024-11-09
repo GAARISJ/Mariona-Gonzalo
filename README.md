@@ -2,7 +2,7 @@
 
 Welcome to the official website of Mariona & Gonzalo’s wedding! Here you’ll find all the important information, including the wedding date, location details, schedule, and contact information.
 
-**Visit the live website**: [Mariona & Gonzalo's Wedding](https://your-username.github.io/Mariona-Gonzalo/)
+**Visit the live website**: [Mariona & Gonzalo's Wedding](https://GAARISJ.github.io/Mariona-Gonzalo/)
 
 ---
 

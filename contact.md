@@ -16,7 +16,7 @@ We’d love for you to join us on our special day! Please RSVP by May 1, 2024.
 
 We’ll be celebrating at **Masia de la Rosa**. Below is a map to help you find the venue.
 
-![Map to the Venue](img/mapaboda.jfif)
+![Map to the Venue](img/mapaboda.jpg)
 
 ### Questions?
 
