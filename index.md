@@ -22,3 +22,8 @@ Join us on our wedding day to celebrate love, joy, and togetherness. We are so t
 - **11:00 PM** - Dance & Celebration
 
 [Our Story](about.md) | [RSVP & Contact](contact.md)
+
+
+<footer>
+    © 2023 Mariona & Gonzalo's Wedding | Designed with love
+</footer>
