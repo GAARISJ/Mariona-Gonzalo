@@ -5,14 +5,10 @@ title: About Us
 
 # Our Love Story ❤️
 
-Mariona and Gonzalo met on a sunny day in Barcelona, and from the moment they connected, their story has been filled with laughter, adventures, and love. Now, they are excited to share this special milestone with friends and family.
+Mariona and Gonzalo’s story began on a sunny day in Barcelona, and it’s been filled with love, laughter, and adventures ever since. From the bustling city streets to quiet, cherished moments, every step has led us here to this beautiful journey.
 
 ## Moments Together
 
-They’ve traveled the world, shared countless memories, and built a life together full of joy and companionship. They look forward to many more beautiful memories and invite you to be a part of their journey.
-
----
-
-![Mariona & Gonzalo](img/marionaygonzalo.jfif)
+![Mariona & Gonzalo](img/marionaygonzalo.jpg)
 
 Return to [Home](index.md) | [RSVP & Contact](contact.md)

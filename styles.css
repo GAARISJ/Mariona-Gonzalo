@@ -1,10 +1,10 @@
-/* Main styling for a wedding-themed GitHub Pages website */
+/* Main Styling for Mariona & Gonzalo's Wedding Website */
 
-/* Background and Text */
+/* Background and Text Colors */
 body {
+    background-color: #fdf8f6; /* Ivory white background */
+    color: #5d5d5d; /* Soft, elegant gray text */
     font-family: 'Georgia', serif;
-    background-color: #faf8f6;
-    color: #3d3d3d;
     line-height: 1.8;
     margin: 0;
     padding: 0;
@@ -13,55 +13,57 @@ body {
 /* Headings */
 h1, h2, h3 {
     font-family: 'Garamond', serif;
-    color: #8a4b7d;
+    color: #a7727d; /* Blush pink for headings */
     text-align: center;
 }
 
 h1 {
-    font-size: 2.5em;
-    margin-bottom: 0.5em;
+    font-size: 2.8em;
+    margin-bottom: 0.2em;
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 2.2em;
     margin-top: 1em;
 }
 
 /* Links */
 a {
-    color: #b6729e;
+    color: #b993a3; /* Light lavender color for links */
     text-decoration: none;
 }
 
 a:hover {
-    color: #8a4b7d;
+    color: #7d4a61; /* Darker lavender on hover */
     text-decoration: underline;
 }
 
 /* Buttons */
 button, .btn, .button {
-    background-color: #b6729e;
+    background-color: #b993a3;
     color: #fff;
-    padding: 0.6em 1.2em;
+    padding: 0.6em 1.5em;
     border-radius: 5px;
     text-decoration: none;
     font-family: 'Garamond', serif;
+    margin-top: 1em;
 }
 
 button:hover, .btn:hover, .button:hover {
-    background-color: #8a4b7d;
+    background-color: #7d4a61; /* Darker blush pink on hover */
 }
 
-/* "View on GitHub" button - hide or style */
+/* GitHub Button (hide or style) */
 .github-button {
-    display: none; /* Uncomment to hide the button completely */
+    display: none; /* Hides the button for a clean look */
 }
 
-/* Custom Styling for Images */
+/* Images */
 img {
     max-width: 100%;
     border-radius: 10px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
 }
 
 /* Layout */
@@ -76,7 +78,9 @@ img {
 /* Footer */
 footer {
     margin-top: 2em;
-    font-size: 0.8em;
-    color: #8a4b7d;
+    font-size: 0.9em;
+    color: #a7727d;
     text-align: center;
+    padding: 1em 0;
+    border-top: 1px solid #e3dede;
 }

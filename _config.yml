@@ -1,8 +1,4 @@
-# _config.yml
-theme: jekyll-theme-cayman  # Optional: You can still use a theme for basic structure
-
-# Custom Stylesheet
-markdown: kramdown
-sass:
-  style: compressed
-include: ['styles.css']
+title: "Mariona & Gonzalo's Wedding"
+description: "Celebrate with us on our special day!"
+theme: jekyll-theme-cayman  # Or another GitHub Pages theme
+include: ["styles.css"]

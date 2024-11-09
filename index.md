@@ -9,16 +9,16 @@ title: Mariona & Gonzalo's Wedding
 
 ## Welcome
 
-We are thrilled to invite you to our wedding celebration! Join us as we celebrate our love and start this new chapter of our lives together.
+Join us on our wedding day to celebrate love, joy, and togetherness. We are so thrilled to share this special day with you!
 
 - **Date**: Saturday, June 15, 2024
-- **Location**: [Masia de la Rosa](https://maps.google.com), Barcelona
+- **Location**: [Masia de la Rosa, Barcelona](https://maps.google.com)
 
 ### Event Schedule
 
 - **5:00 PM** - Ceremony
 - **6:00 PM** - Cocktail Hour
-- **7:30 PM** - Dinner and Reception
+- **7:30 PM** - Dinner & Reception
 - **11:00 PM** - Dance & Celebration
 
-[About Us](about.md) | [RSVP & Contact](contact.md)
+[Our Story](about.md) | [RSVP & Contact](contact.md)
