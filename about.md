@@ -1,20 +1,18 @@
 ---
 layout: default
-title: About
+title: About Us
 ---
 
-# About Me
+# Our Love Story ❤️
 
-Welcome to the "About" page! Here, I share a bit about myself, my work, and my projects.
+Mariona and Gonzalo met on a sunny day in Barcelona, and from the moment they connected, their story has been filled with laughter, adventures, and love. Now, they are excited to share this special milestone with friends and family.
 
-## My Background
+## Moments Together
 
-I am a [Your Profession/Background], and I specialize in [Your Specialty]. With a passion for [Related Topic/Field], I enjoy building projects that make a positive impact.
+They’ve traveled the world, shared countless memories, and built a life together full of joy and companionship. They look forward to many more beautiful memories and invite you to be a part of their journey.
 
-## Projects
+---
 
-- **[Project 1](#)** - Brief description of your project.
-- **[Project 2](#)** - Another brief description.
+![Mariona & Gonzalo](img/marionaygonzalo.jfif)
 
-Explore more about my work on [GitHub](https://github.com/your-username).
-
+Return to [Home](index.md) | [RSVP & Contact](contact.md)

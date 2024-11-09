@@ -1,27 +1,13 @@
-# Mariona-Gonzalo
+# Mariona & Gonzalo's Wedding
 
-> *Carta para Mariona Riera Fernandez 26.03.2023*
+Welcome to the official website of Mariona & Gonzalo’s wedding! Here you’ll find all the important information, including the wedding date, location details, schedule, and contact information.
 
-# ![Marions de Camino](img/de-camino.jpeg)
+**Visit the live website**: [Mariona & Gonzalo's Wedding](https://your-username.github.io/Mariona-Gonzalo/)
 
-# My GitHub Pages Website
+---
 
-Welcome to my personal website created with GitHub Pages! This site is built using Markdown and is hosted directly on GitHub. You can visit the live website at:
+### Sections
 
-- **[Mariona-Gonzalo/.github.io](https://your-username.github.io/Mariona-Gonzalo/)**
-
-## About This Site
-
-This site is a simple, clean website template for showcasing projects, sharing your background, and providing contact details. Built with GitHub Pages, it’s perfect for personal portfolios, blogs, or documentation.
-
-## How to Use
-
-- **Clone the repository**: `git clone https://github.com/your-username/Mariona-Gonzalo/e.git`
-- **Edit files**: Modify the Markdown files to customize content.
-- **Push changes**: Commit and push changes to update the website.
-
-## Pages
-
-1. **Home** - Introduction and overview.
-2. **About** - Background information and project details.
-3. **Contact** - Contact form and links.
+1. **Home** - Welcome message and main event details.
+2. **About Us** - Story of Mariona & Gonzalo.
+3. **Contact** - RSVP and contact details for questions.

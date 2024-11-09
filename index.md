@@ -1,14 +1,24 @@
 ---
 layout: default
-title: Home
+title: Mariona & Gonzalo's Wedding
 ---
 
-# Welcome to My Website
+# Mariona & Gonzalo's Wedding 💍
 
-Hello! This is my personal website hosted on GitHub Pages. Here, you can find more about my projects, background, and ways to get in touch.
+![Mariona & Gonzalo](img/marionaygonzalo.jpg)
 
-- [About Me](about.md)
-- [Contact](contact.md)
+## Welcome
 
-Feel free to browse around and learn more!
+We are thrilled to invite you to our wedding celebration! Join us as we celebrate our love and start this new chapter of our lives together.
 
+- **Date**: Saturday, June 15, 2024
+- **Location**: [Masia de la Rosa](https://maps.google.com), Barcelona
+
+### Event Schedule
+
+- **5:00 PM** - Ceremony
+- **6:00 PM** - Cocktail Hour
+- **7:30 PM** - Dinner and Reception
+- **11:00 PM** - Dance & Celebration
+
+[About Us](about.md) | [RSVP & Contact](contact.md)

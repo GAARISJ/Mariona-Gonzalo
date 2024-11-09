@@ -1,4 +1,4 @@
-title: "My GitHub Pages Website"
-description: "A simple GitHub Pages website template"
-theme: jekyll-theme-minimal  # You can choose themes like 'jekyll-theme-cayman', etc.
-show_downloads: true
+title: "Mariona & Gonzalo's Wedding"
+description: "Join us to celebrate Mariona & Gonzalo's love!"
+theme: jekyll-theme-cayman  # Optional: Choose any GitHub Pages-compatible theme
+show_downloads: false
